@@ -5,7 +5,7 @@ Built with React, TypeScript, Three.js, GSAP, and WebGL.
 
 > Live at: [ahir-arpit.github.io/arpit__portfolio](https://ahir-arpit.github.io/arpit__portfolio) *(update link if hosted)*
 
-![Portfolio Preview](public/images/preview.png)
+
 
 ---
 
