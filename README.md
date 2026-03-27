@@ -2,11 +2,6 @@
 
 Personal portfolio of **Arpit Yadav**, a Flutter Developer & Backend Developer.  
 Built with React, TypeScript, Three.js, GSAP, and WebGL.
-
-> Live at: [ahir-arpit.github.io/arpit__portfolio](https://ahir-arpit.github.io/arpit__portfolio) *(update link if hosted)*
-
-
-
 ---
 
 ## About
