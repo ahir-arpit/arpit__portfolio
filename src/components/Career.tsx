@@ -16,7 +16,7 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Flutter Developer</h4>
-                <h5>Project</h5>
+                <h5>finance app</h5>
               </div>
               <h3>2025</h3>
             </div>
@@ -31,7 +31,7 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Flutter Developer</h4>
-                <h5>Controller</h5>
+                <h5>car controller</h5>
               </div>
               <h3>2026</h3>
             </div>
