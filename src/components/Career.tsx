@@ -6,7 +6,7 @@ const Career = () => {
       <div className="career-container">
         <h2>
           My career <span>&</span>
-          <br /> experience
+          <br />
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -16,42 +16,46 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Flutter Developer</h4>
-                <h5>Freelance</h5>
+                <h5>Project</h5>
               </div>
-              <h3>2022</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Developed cross-platform mobile apps for iOS & Android using
-              Flutter & Dart. Integrated Firebase for auth, real-time database,
-              and cloud functions. Implemented state management using Provider & GetX.
+              Built Mintify, a cross-platform personal finance app for iOS &amp;
+              Android using Flutter & Dart. Integrated Firebase for auth and
+              real-time data sync. Implemented budget tracking, daily expense
+              management, and savings goal features with Provider &amp; GetX.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Flutter & Backend Developer</h4>
-                <h5>Startup Project</h5>
+                <h4>Flutter Developer</h4>
+                <h5>Controller</h5>
               </div>
-              <h3>2023</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Built a full-stack mobile health platform — Flutter frontend with
-              a FastAPI + Python backend. Integrated ML-based disease prediction
-              APIs and designed a scalable REST API architecture.
+              Built a Flutter-based RC car controller with dual-mode Joystick &amp;
+              D-Pad navigation and adjustable speed control (0–100%). Streamed
+              live telemetry from Ultrasonic, IR &amp; PIR sensors with real-time
+              obstacle detection that auto-blocks forward movement for safety.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Flutter & Backend Developer</h4>
-                <h5>Self-Employed</h5>
+                <h4>AI/NLP Developer</h4>
+                <h5>AI Project</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Delivering production-grade Flutter apps and Node.js/Python
-              backends. Specializing in real-time features, Firebase integration,
-              REST APIs, and clean architecture patterns (BLoC / Clean Arch).
+              Built LexAssist AI, a professional-grade legal document analysis
+              engine using NLP &amp; Transformer models. Supports contract,
+              policy &amp; agreement uploads with instant insights — risk clause
+              detection, key entity extraction, compliance scoring, and
+              plain-language summarization.
             </p>
           </div>
         </div>

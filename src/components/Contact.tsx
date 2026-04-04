@@ -16,7 +16,7 @@ const Contact = () => {
             </p>
             <h4>Education</h4>
             <p>B.Tech in Computer Science and Engineering</p>
-            <p>CGPA: 7.5</p>
+            <p>CGPA: 7.3</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
