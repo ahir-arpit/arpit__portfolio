@@ -44,7 +44,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>AI/NLP Developer</h4>
+                <h4>LexAssist AI</h4>
                 <h5>AI Project</h5>
               </div>
               <h3>NOW</h3>
