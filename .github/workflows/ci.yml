@@ -23,5 +23,6 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           context: .
+          file: ./Dockerfile/Dockerfile
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/arpit-portfolio:latest
