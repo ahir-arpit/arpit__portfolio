@@ -1,0 +1,14 @@
+name : ci workflow
+
+on: 
+    push:
+jobs:
+    build:
+    runs-on: ubuntu-latest # github provides free vms to run our code
+    steps:
+      - name: checkout code
+      - uses: actions/checkout@v4 # clone the code into ubuntu runner 
+      - name: setup docker
+      - uses: docker/setup-buildx-action@v3 # setup buildx for multi platform builds 
+        
+
