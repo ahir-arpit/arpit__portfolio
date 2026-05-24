@@ -47,7 +47,7 @@ const Career = () => {
                 <h4>LexAssist AI</h4>
                 <h5>AI Project</h5>
               </div>
-              <h3>Completed</h3>
+              <h3>2026</h3>
             </div>
             <p>
               Built LexAssist AI, a professional-grade legal document analysis
